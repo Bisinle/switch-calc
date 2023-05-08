@@ -1,15 +1,4 @@
 
-//   let p1 = getProduct();
-//   console.log(p1);
-//   */
-
-//   //FUNCTION AS A STATEMENT
-//   function greet(a,b){
-//    let add = a+b;
-   
-//      console.log(add);
-//    return add;
-//   }
 
 //   // invoke the function
 //   greet(9,6);
