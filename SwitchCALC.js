@@ -1,8 +1,5 @@
 
 
-//   // invoke the function
-//   greet(9,6);
-
 
 //   function getproduct(){
 //     let product1 = {
